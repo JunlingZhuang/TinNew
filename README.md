@@ -6,4 +6,4 @@
 4. Integrated Retrofit and Retrofit and LiveData to pull the latest news data from a RESTful endpoint
 
 ## Demo
-![]([https://github.com/JunlingZhuang/TinNew/Demo/Tinews_demo.gif](https://github.com/JunlingZhuang/TinNew/blob/main/Demo/Tinews_demo.gif)https://github.com/JunlingZhuang/TinNew/blob/main/Demo/Tinews_demo.gif)
+![](https://github.com/JunlingZhuang/TinNew/blob/main/Demo/Tinews_demo.gif?raw=true)
